@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './Login.css';
-export default class LoginForm extends Component {
+export default class Login extends Component {
     state = {
         ufname: '',
         ulname: '',
